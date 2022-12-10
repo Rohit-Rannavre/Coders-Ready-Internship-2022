@@ -13,7 +13,7 @@ This repository contains the projects I did as a Data Science and Business Analy
 ![](https://img.shields.io/badge/Task%201-Prediction%20Using%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-38D75?style=for-the-badge)
 > **Problem Statement:** Predict the percentage of a student based on the number of study hours
 
-> [Dataset](https://bit.ly/3gB71sh)
+> [Dataset](https://github.com/Rohit-Rannavre/Coders-Ready-Internship-2022/blob/main/Task%201/dataset_1.csv)
 
 > [Python Code]
 
@@ -24,7 +24,7 @@ This repository contains the projects I did as a Data Science and Business Analy
 ![](https://img.shields.io/badge/Task%202-Exploratory%20Data%20Analysis%20--%20Global%20Terrorism%20%5BLevel%3A%20Intermediate%5D-eb3471?style=for-the-badge)
 > **Problem Statement:** Perform EDA on dataset of 'Global Terrorism' as a security/defence analyst to find out the hot zones of terrorism
 
-> [Dataset](https://bit.ly/3F8CV9A)
+> [Dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view)
 
 > [Python Code]
 
@@ -35,7 +35,7 @@ This repository contains the projects I did as a Data Science and Business Analy
 ![](https://img.shields.io/badge/Task%203-Exploratory%20Data%20Analysis%20--%20Sports%20%5BLevel%3A%20Advanced%5D-990098?style=for-the-badge)
 > **Problem Statement:** Perform EDA on dataset of "Indian Premier League" as a sports analyst to find out the most successful teams, players and factors contributing to win or lose of a team
 
-> [Dataset](https://bit.ly/3DnL47E)
+> [Dataset](https://github.com/Rohit-Rannavre/Coders-Ready-Internship-2022/tree/main/Task%203)
 
 > [Python Code]
 
