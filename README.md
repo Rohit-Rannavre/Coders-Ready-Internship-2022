@@ -3,7 +3,7 @@
 # :star: Coders Ready Internship [2022]
 ![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn-orange?style=for-the-badge)
 
-This repository contains the projects I did as a Data Science and Business Analytics intern with [Coders Ready](https://codersready.com/)
+This repository contains the projects I did as an intern with [Coders Ready](https://codersready.com/)
 - **Internship Function**: Data Science and Business Analytics
 - **Internship Duration**: 1 Month [December, 2022]
 - **Internship Mode**: Virtual
