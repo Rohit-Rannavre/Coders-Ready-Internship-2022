@@ -1,7 +1,7 @@
 <img align="right" src="https://apksos.com/storage/images/com/proctur/app222751/com.proctur.app222751_1.png" width="200">
 
 # :star: Coders Ready Internship [2022]
-![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn-green?style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Matplotlib%20|%20seaborn%20-green?style=for-the-badge)
 
 This repository contains the project I did as an intern with [Coders Ready](https://codersready.com/)
 - **Internship Function**: Data Science and Business Analytics
