@@ -11,11 +11,7 @@ This repository contains the project I did as an intern with [Coders Ready](http
 <br>
 
 ![](https://img.shields.io/badge/Task%20-Exploratory%20Data%20Analysis%20--%20Global%20Terrorism-eb3471?style=for-the-badge)
-> **Problem Statement:** Perform EDA on dataset of 'Global Terrorism' as a security/defence analyst to find out the hot zones of terrorism
-
-> [Dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view)
-
-> [Python Code]
+> **Problem Statement:** Perform EDA on ['Global Terrorism' dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view) as a security/defence analyst to find out the hot zones of terrorism
 
 <br>
 
@@ -23,5 +19,3 @@ This repository contains the project I did as an intern with [Coders Ready](http
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Phylorohitics) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
-
-### ***Don't forget to give this repo a :star:***
