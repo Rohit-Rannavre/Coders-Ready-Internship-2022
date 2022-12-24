@@ -3,7 +3,7 @@
 # :star: Coders Ready Internship [2022]
 ![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Matplotlib%20|%20seaborn%20-green?style=for-the-badge)
 
-This repository contains the project I did as an intern with [Coders Ready](https://codersready.com/)
+This repository contains the project I did as an intern with [Coders Ready](https://codersready.com/).
 
 **Internship Details:**
  - **Function**: Data Science and Business Analytics
