@@ -13,7 +13,9 @@ This repository contains the project I did as an intern with [Coders Ready](http
 <br>
 
 ![](https://img.shields.io/badge/Task%20-Exploratory%20Data%20Analysis%20--%20Global%20Terrorism-eb3471?style=for-the-badge)
-> **Problem Statement:** Perform EDA on ['Global Terrorism' dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view) as a security/defense analyst to find out the hot zones of terrorism
+> **Problem Statement:** Perform EDA on ['Global Terrorism' dataset](https://drive.google.com/file/d/1MQHuEl7JOfa4GQsmgK0TISEKEafxkpqb/view) as a security/defense analyst to find out the hot zones of terrorism.
+
+> [Python Code](https://github.com/Rohit-Rannavre/Coders-Ready-Internship-2022/blob/main/EDA_global_terrorism.ipynb)
 
 <br>
 
